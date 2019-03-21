@@ -41,7 +41,7 @@ h1{
              background-size: cover;">
         
         <div class="navbar">
-  <a href="cv.html">CV</a>
+  <a href="CV.html">CV</a>
   <a href="ConsultingService.html">Creamfields Consultancy</a>
   <a href="index.html">Home Page</a>
 </div>

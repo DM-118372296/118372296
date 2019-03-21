@@ -139,12 +139,12 @@ body {
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a>My Webpages</a>
-  <a href="cv.html">CV</a>
-  <a href="interests.html">Interests</a>
-  <a href="sports.html">Sports</a>
-  <a href="travel.html">Travel</a>
+  <a href="CV.html">CV</a>
+  <a href="Interests.html">Interests</a>
+  <a href="Sports.html">Sports</a>
+  <a href="Travel.html">Travel</a>
   <a href="ConsultingService.html">Creamfields Consultancy</a>
-  <a href="ebus1.php">eBusiness</a>
+  <a href="eBus1.php">eBusiness</a>
   
   <hr>
   <a>Useful Links</a>
@@ -152,7 +152,6 @@ body {
   <a href="https://www.smgsblarney.ie/">SMGS Blarney</a>
   <a href="https://www.w3schools.com/">W3 Schools</a>
   <a href= "https://phpproject118372296.herokuapp.com/"> Heroku </a>
-  <a href="https://dashboard.heroku.com/apps/phpproject118372296">Heroku</a>
   <a href="https://github.com/DM-118372296/118372296">GitHub</a>
     
   
